@@ -27,8 +27,3 @@ These solutions are my own work and may not always be the most optimal. I'm lear
 ## 🖥️ Local Machine Liftoff
 
 I'll be pushing code directly from my local machine, ensuring a smooth trajectory from problem-solving to repository updates. 🛸
-
-## 🎊 Day 1 Celebration: Two Sum Triumph!
-
-To kick off this exciting journey, I've tackled the classic "Two Sum" problem.
-Happy Coding! May your algorithms be swift and your bugs be few! 🚀✨
