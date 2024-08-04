@@ -31,4 +31,5 @@ def two_sum_hash():
         elif num not in hash:
            hash[num] = i 
            
-print(two_sum_hash())
+print(two_sum_hash()) 
+## Worst Case is O(n)
