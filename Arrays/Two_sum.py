@@ -32,4 +32,4 @@ def two_sum_hash():
            hash[num] = i 
            
 print(two_sum_hash()) 
-
+# Runs on O(n)
