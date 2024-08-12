@@ -19,7 +19,7 @@ def close_to_zero():
 print(close_to_zero())
 
 """
-Time = O(n)
+Time complexity = O(n)
 
 
 """
