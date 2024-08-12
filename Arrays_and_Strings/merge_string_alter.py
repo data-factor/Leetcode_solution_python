@@ -26,3 +26,5 @@ def mergeAlternately(word1, word2):
     return ''.join(array)
 
 mergeAlternately('ace','bdf') 
+
+#Time complexity O(n)
