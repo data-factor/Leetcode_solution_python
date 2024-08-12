@@ -32,6 +32,6 @@ def two_sum_hash():
            hash[num] = i 
            
 print(two_sum_hash()) 
-# Runs on O(n)
+# Time complexity Runs on O(n)
 
 
