@@ -24,6 +24,6 @@ def romanToInt(str):
     return sum
 
 
-# Time : O(n)
-#Space : O(1)
+# Time complexity : O(n)
+#Space complexity : O(1)
 romanToInt("MCMXCIV")
